@@ -2,6 +2,11 @@
 
 Remote-sensing-based mapping of Tehran’s Local Climate Zones using Landsat 8 imagery and GIS software.
 
+
+## Final LCZ Map
+
+![Local Climate Zone Map of Tehran](./tehran_lcz_final_map.png)
+
 ## Project Overview
 
 This individual project aimed to map the Local Climate Zones (LCZs) of Tehran using Landsat 8 satellite imagery from 2018 with a spatial resolution of 30 meters. The workflow combined ENVI, SAGA GIS, and ArcGIS for image preparation, LCZ classification, accuracy assessment, and final map production.
