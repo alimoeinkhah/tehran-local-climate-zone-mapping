@@ -80,8 +80,10 @@ The final classification identified 15 of the 17 standard LCZ classes across the
 
 This repository contains the principal project outputs. Raw satellite imagery and original training and testing datasets are not included because of file-size and data-sharing considerations.
 
+## Project Context
+
+This municipal geospatial mapping project was completed for Tehran Municipality and its Urban Development and Construction Organization.
+
 ## Author
 
-**Ali Moeinkhah**
-
-Project context: Municipal geospatial mapping project completed for Tehran Municipality and its Urban Development and Construction Organization.
+Ali Moeinkhah
