@@ -9,7 +9,7 @@ Remote-sensing-based mapping of Tehran’s Local Climate Zones using Landsat 8 i
 
 ## Project Overview
 
-This individual project aimed to map the Local Climate Zones (LCZs) of Tehran using Landsat 8 satellite imagery from 2018 with a spatial resolution of 30 meters. The workflow combined ENVI, SAGA GIS, and ArcGIS for image preparation, LCZ classification, accuracy assessment, and final map production.
+This geospatial project was completed for Tehran Municipality and its Urban Development and Construction Organization to produce a city-wide Local Climate Zone (LCZ) map from 2018 Landsat 8 imagery at 30-meter spatial resolution. The workflow combined ENVI, SAGA GIS, and ArcGIS for image preparation, LCZ classification, accuracy assessment, and final map production.
 
 The final classification identified 15 of the 17 standard LCZ classes across the study area.
 
@@ -62,4 +62,4 @@ This repository contains the principal project outputs. Raw satellite imagery an
 
 **Ali Moeinkhah**
 
-This project was completed independently.
+Project context: Municipal geospatial mapping project completed for Tehran Municipality and its Urban Development and Construction Organization.
