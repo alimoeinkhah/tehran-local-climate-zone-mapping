@@ -64,11 +64,18 @@ The final classification identified 15 of the 17 standard LCZ classes across the
 
 ## Results
 
-- **Identified LCZ classes:** 15
-- **Training polygons:** 515
-- **Accuracy-assessment samples:** 363
-- **Overall Accuracy:** 84.30%
-- **Kappa Coefficient:** 0.83
+The final classification identified 15 of the 17 standard Local Climate Zone classes across Tehran.
+
+| Metric | Result |
+|---|---:|
+| Identified LCZ classes | 15 of 17 standard classes |
+| Training polygons | 515 |
+| Independent validation samples | 363 |
+| Correctly classified samples | 306 of 363 |
+| Overall accuracy | 84.30% |
+| Kappa coefficient | 0.83 |
+
+The final outputs were exported as GeoTIFF and KMZ files for municipal spatial analysis and visualization.
 
 ## Repository Contents
 
