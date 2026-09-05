@@ -13,6 +13,10 @@ This geospatial project was completed for Tehran Municipality and its Urban Deve
 
 The final classification identified 15 of the 17 standard LCZ classes across the study area.
 
+## Project Contribution
+
+My work covered Landsat 8 image preparation, creation of training polygons, Local Climate Zone classification, independent accuracy assessment, and preparation of the final GIS deliverables in GeoTIFF and KMZ formats.
+
 ## Objectives
 
 - Produce a Local Climate Zone map of Tehran.
