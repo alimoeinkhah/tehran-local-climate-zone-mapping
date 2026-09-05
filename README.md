@@ -59,12 +59,12 @@ My work covered Landsat 8 image preparation, creation of training polygons, Loca
 
 ## Workflow
 
-1. Preparation and preprocessing of Landsat 8 imagery in ENVI.
-2. Preparation of 515 training polygons.
-3. Local Climate Zone classification in SAGA GIS.
-4. Spatial analysis and final map preparation in ArcGIS.
-5. Accuracy assessment using 363 reference samples.
-6. Export of the final results as GeoTIFF and KMZ files.
+1. Prepared and preprocessed 2018 Landsat 8 imagery in ENVI.
+2. Created 515 training polygons representing the target Local Climate Zone classes.
+3. Performed Local Climate Zone classification in SAGA GIS.
+4. Conducted spatial analysis and prepared the final map in ArcGIS.
+5. Evaluated the classification using 363 independent reference samples, with 306 correctly classified samples.
+6. Exported the final results as GeoTIFF and KMZ files for municipal spatial analysis and visualization.
 
 ## Results
 
