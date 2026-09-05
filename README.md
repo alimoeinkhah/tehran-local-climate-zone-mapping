@@ -31,6 +31,28 @@ The final classification identified 15 of the 17 standard LCZ classes across the
 | SAGA GIS | Local Climate Zone classification |
 | ArcGIS | Accuracy assessment, spatial analysis, and final map preparation |
 
+
+## LCZ Class Legend
+
+| Code | Local Climate Zone |
+|---|---|
+| 1 | Compact high-rise |
+| 2 | Compact mid-rise |
+| 3 | Compact low-rise |
+| 4 | Open high-rise |
+| 5 | Open mid-rise |
+| 7 | Lightweight low-rise |
+| 8 | Large low-rise |
+| 9 | Sparsely built |
+| 10 | Heavy industry |
+| 101 (A) | Dense trees |
+| 102 (B) | Scattered trees |
+| 103 (C) | Bush and scrub |
+| 104 (D) | Low plants |
+| 106 (F) | Bare soil or sand |
+| 107 (G) | Water |
+
+
 ## Workflow
 
 1. Preparation and preprocessing of Landsat 8 imagery in ENVI.
